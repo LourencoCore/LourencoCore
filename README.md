@@ -24,7 +24,7 @@ Atualmente estudo:
 ## 🛠️ Tecnologias
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cs,css,c++,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cs,css,git,github,vscode" />
 </p>
 
 ---
